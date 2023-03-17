@@ -1,0 +1,57 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.my-header {
+    background-color: blue;
+    display: block;
+    height: 10%;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    text-transform: capitalize;
+    text-shadow: 3px;
+    font-size: 50px;
+}
+
+.my-nav{
+    background-color: red;
+    display: block;
+    float: left;
+    height: 35%;
+    width: 40%;
+}
+
+.my-main {
+    background-color: yellow;
+    display: block;
+    float: right;
+    height: 35%;
+    width: 60%;
+}
+
+.my-aside {
+    background-color: green;
+    display: block;
+    float: left;
+    height: 50%;
+    width: 50%;
+}
+
+.my-section {
+    background-color: orange;
+    display: block;
+    float: right;
+    height: 50%;
+    width: 50%;
+}
+
+.my-footer {
+    background-color:blue;
+    display: block;
+    float: left;
+    height: 15%;
+    width: 100%;
+}
